@@ -97,7 +97,7 @@ I specialize in executing end-to-end testing strategies, benchmarking platforms 
 ## 📊 GitHub Analytics  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainkhanx93&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!--  <img src="https://github-readme-stats.vercel.app/api?username=zainkhanx93&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhanx93&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
