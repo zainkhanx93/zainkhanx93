@@ -33,7 +33,7 @@ I specialize in executing end-to-end testing strategies, benchmarking platforms 
 <p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=python,java,mysql,aws,azure,kubernetes,docker,restapi,json,salesforce,gainsight,zendesk,jira,hubspot,replit,vercel,nocode,lowcode" />
 </p>
-</a>
+</a> -->
 
 
 ## 🛠️ Technical Skills  
@@ -57,6 +57,7 @@ I specialize in executing end-to-end testing strategies, benchmarking platforms 
 
 ---
 
+<!--
 
 ## 🎤 Leadership & Speaking   
 
