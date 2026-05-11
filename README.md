@@ -7,18 +7,15 @@
 <h3 align="left">Generative AI & LLM Solution Strategist | Quality Assurance Engineer | SaaS Growth Leader</h3>
 
 ---
-<!--
+
 
 ## 📖 About Me  
 
-I’m Saad Khan a **Customer Success Executive** with 10+ years of experience leading enterprise programs for **Global 1000 and Fortune 500 clients**, focused on **SaaS, Generative AI, and LLM solution adoption**.  
+I’m a Quality Assurance Engineer with hands-on experience testing and validating next-generation voice assistants and smart devices at Amazon, focused on Automatic Speech Recognition (ASR), voice assistant performance, and smart device certification. 
 
-I specialize in building **scalable customer success frameworks**, delivering **AI/ML-driven value realization**, and aligning post-sales strategies to measurable business outcomes.  
+I specialize in executing end-to-end testing strategies, benchmarking platforms like Alexa and Google Assistant, and ensuring high-quality user experiences across smart home and automotive environments through scalable validation and cross-functional collaboration.  
 
-<!-- ✅ **125%+ Net Revenue Retention (NRR)**  
-✅ **160%+ Upsell Growth** across enterprise accounts  
-✅ Recognized **AI Thought Leader & Ethical AI Advocate**   
----
+<!-- 
 
 ## 🏆 Key Highlights  
 
