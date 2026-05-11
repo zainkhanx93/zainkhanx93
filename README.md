@@ -89,17 +89,18 @@ I specialize in executing end-to-end testing strategies, benchmarking platforms 
   </a>
 </p>
 
----
+--- -->
+
 
 ## 📊 GitHub Analytics  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadk408&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadk408&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zainkhanx93&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhanx93&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadk408&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zainkhanx93&theme=tokyonight" />
 </p>
 
 
