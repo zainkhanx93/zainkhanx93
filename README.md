@@ -81,11 +81,11 @@ I specialize in executing end-to-end testing strategies, benchmarking platforms 
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!--
+  
   &nbsp;
-  <a href="https://khansaad.com" target="_blank">
+  <a href="https://zainkhanx.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a> -->
+  </a> 
   &nbsp;
   <a href="https://github.com/zainkhanx93" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
